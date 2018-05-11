@@ -1,0 +1,12 @@
+{
+  "name": "meatball",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "helloworld.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
